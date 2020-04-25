@@ -1,0 +1,300 @@
+while true; do
+toilet -f mono12 -F gay -t 'AS_PC' | lolcat -a -d 1
+echo -e " [ᴠɪᴘ] "
+toilet -f wideterm -F border:gay -t 'CREATOR :- @AnOnYmOuS_GaMinG' | lolcat -a -d 1
+toilet -f term -F gay "████████████████████████████████████████████████"
+neofetch | lolcat -a -d 3
+toilet -f term -F gay "████████████████████████████████████████████████"
+toilet -f term -F gay " 1.  GLOBAL [ANTIBAN] "
+toilet -f term -F gay " 2.  KOREA [ANTIBAN] "
+toilet -f term -F gay " 3.  EXIT "
+echo
+echo -n "CLICK ANY MENU, OR 0 OR 3 FOR EXIT: "
+read choice
+echo
+case $choice in
+1)
+
+toilet -f term -F gay " GLOBAL"
+toilet -f term -F gay 'GETTING INFO BE PATENT,'
+clear
+Logcleaner ()
+{
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/cache
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
+touch /storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/tbslog
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ca-bundle.pem
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/Engine
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/AntiCheat.ini
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/afd
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/IGH5Cache
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/*.*cures.ifs.res
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Activity
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo
+rm -rf /storage/emulated/0/.backups /storage/emulated/0/MidasOversea /storage/emulated/0/supercache /storage/emulated/0/tencent
+touch /storage/emulated/0/.backups /storage/emulated/0/MidasOversea /storage/emulated/0/supercache /storage/emulated/0/tencent
+rm -rf /data/data/com.tencent.ig/app_appcache
+rm -rf /data/data/com.tencent.ig/app_bugly
+rm -rf /data/data/com.tencent.ig/app_crashrecord
+touch /data/data/com.tencent.ig/app_crashrecord
+rm -rf /data/data/com.tencent.ig/app_databases
+rm -rf /data/data/com.tencent.ig/app_dex
+rm -rf /data/data/com.tencent.ig/app_geolocation
+rm -rf /data/data/com.tencent.ig/app_tbs
+rm -rf /data/data/com.tencent.ig/app_textures
+rm -rf /data/data/com.tencent.ig/app_webview
+rm -rf /data/data/com.tencent.ig/app_webview_imsdk_inner_webview
+rm -rf /data/data/com.tencent.ig/cache
+rm -rf /data/data/com.tencent.ig/code_cache
+rm -rf /data/data/com.tencent.ig/files
+touch /data/data/com.tencent.ig/files
+printf "✓ʟᴏɢ ᴄʟᴇᴀɴɪɴɢ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ✓
+";
+printf " NOW : ";
+date
+printf "
+";
+sleep 10
+}
+toilet -f term -F gay "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+toilet -f term -F gay "     ╔─━━━━━━░🔱░━━━━━━─╗"
+toilet -f term -F gay "        𝖆𝖓𝖔𝖓𝖄𝖒𝖔𝖚𝕾 𝖘𝕼𝖚𝖆𝖗𝕯      "
+toilet -f term -F gay "       ☬𝕮𝖗𝖊𝖆𝖙𝖔𝖗  : ᴀɴᴏɴʏᴍᴏᴜꜱ☬         "
+toilet -f term -F gay "       ☬𝕾𝖚𝖕𝖕𝖔𝖗𝖙  : ꜱᴀʀᴋᴀʀ☬         "
+toilet -f term -F gay "     ╚─━━━━━━░🔱░━━━━━━─╝"
+toilet -f term -F gay "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+mkdir /storage/emulated/0/Android/AS
+mkdir /storage/emulated/0/Android/AS/Paks
+cp /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/*.* /storage/emulated/0/Android/AS/Paks
+
+
+
+rm -rf /storage/emulated/0/Android/backup/Paks/map*.*
+rm -rf /storage/emulated/0/Android/backup/Paks/res*.*
+rm -rf /data/data/com.tencent.ig/app_crashrecord
+touch /data/data/com.tencent.ig/app_crashrecord
+rm -rf /data/data/com.tencent.ig/files
+touch /data/data/com.tencent.ig/files
+
+sleep 2
+echo ""
+echo ""
+echo "ɪɴᴊᴇᴄᴛɪɴɢ ᴄʜᴇᴀᴛ ᴅᴀᴛᴀ"
+echo -e "[choice]
+appversion=0.17.0.11800
+srcversion=0.17.0.11807
+" > /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+chmod 555 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+echo "ᴄʜᴇᴀᴛ ᴅᴀᴛᴀ ɪɴᴊᴇᴄᴛᴇᴅ"
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/core_patch_0.17.0.11808.pak
+sleep 1
+am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity
+echo ""
+echo "ᴅᴏɴ'ᴛ ᴄʟᴏꜱᴇ ᴛᴇʀᴍᴜx"
+echo "ᴋᴇᴇᴘ ʀᴜɴ ɪɴ ʙᴀᴄᴋɢʀᴏᴜɴᴅ"
+echo ""
+sleep 60
+PACKAGE='com.tencent.ig'
+while [ $(pidof $PACKAGE) ]
+do
+sleep 1
+Logcleaner
+((COUNT=$COUNT+10))
+if [ ! $(pidof $PACKAGE) ]; then
+break
+fi
+sleep 1
+done
+toilet -f term -F gay "REsToRiNG PuBGm"
+echo "Wait.. "
+echo -e "[choice]
+appversion=0.17.0.11800
+srcversion=0.17.0.11809
+" > /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+chmod 660 /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+cp /storage/emulated/0/Android/AS/Paks/*.* /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+rm -rf /storage/emulated/0/Android/AS
+rm -rf /storage/emulated/0/.backups
+rm -rf /storage/emulated/0/MidasOversea
+rm -rf /storage/emulated/0/supercache
+rm -rf /storage/emulated/0/tencent
+echo ""
+toilet -f term -F gay "ReStOrED PuBGm"
+toilet -f term -F gay "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+toilet -f term -F gay "     ╔─━━━━━━░🔱░━━━━━━─╗"
+toilet -f term -F gay "        𝖆𝖓𝖔𝖓𝖄𝖒𝖔𝖚𝕾 𝖘𝕼𝖚𝖆𝖗𝕯      "
+toilet -f term -F gay "       ☬𝕮𝖗𝖊𝖆𝖙𝖔𝖗  : ᴀɴᴏɴʏᴍᴏᴜꜱ☬         "
+toilet -f term -F gay "       ☬𝕾𝖚𝖕𝖕𝖔𝖗𝖙  : ꜱᴀʀᴋᴀʀ☬         "
+toilet -f term -F gay "     ╚─━━━━━━░🔱░━━━━━━─╝"
+toilet -f term -F gay "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+date
+AS=1
+;;
+
+2)
+
+toilet -f term -F gay " KOREA"
+toilet -f term -F gay 'GETTING INFO BE PATENT,'
+clear
+Logcleaner ()
+{
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/cache
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ProgramBinaryCache
+touch /storage/emulated/0/Android/data/com.pubg.krmobile/files/ProgramBinaryCache
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/Engine
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/AntiCheat.ini
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/afd
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/IGH5Cache
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/*.*cures.ifs.res
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Activity
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/Match
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo
+rm -rf /storage/emulated/0/.backups /storage/emulated/0/MidasOversea /storage/emulated/0/supercache /storage/emulated/0/tencent
+touch /storage/emulated/0/.backups /storage/emulated/0/MidasOversea /storage/emulated/0/supercache /storage/emulated/0/tencent
+rm -rf /data/data/com.pubg.krmobile/app_appcache
+rm -rf /data/data/com.pubg.krmobile/app_bugly
+rm -rf /data/data/com.pubg.krmobile/app_crashrecord
+touch /data/data/com.pubg.krmobile/app_crashrecord
+rm -rf /data/data/com.pubg.krmobile/app_databases
+rm -rf /data/data/com.pubg.krmobile/app_dex
+rm -rf /data/data/com.pubg.krmobile/app_geolocation
+rm -rf /data/data/com.pubg.krmobile/app_tbs
+rm -rf /data/data/com.pubg.krmobile/app_textures
+rm -rf /data/data/com.pubg.krmobile/app_webview
+rm -rf /data/data/com.pubg.krmobile/app_webview_imsdk_inner_webview
+rm -rf /data/data/com.pubg.krmobile/cache
+rm -rf /data/data/com.pubg.krmobile/code_cache
+rm -rf /data/data/com.pubg.krmobile/files
+touch /data/data/com.pubg.krmobile/files
+printf "✓ʟᴏɢ ᴄʟᴇᴀɴɪɴɢ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ✓
+";
+printf "CURRENT TIME: ";
+date
+printf "
+";
+sleep 10
+}
+date
+toilet -f term -F gay "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+toilet -f term -F gay "     ╔─━━━━━━░🔱░━━━━━━─╗"
+toilet -f term -F gay "        𝖆𝖓𝖔𝖓𝖄𝖒𝖔𝖚𝕾 𝖘𝕼𝖚𝖆𝖗𝕯      "
+toilet -f term -F gay "       ☬𝕮𝖗𝖊𝖆𝖙𝖔𝖗  : ᴀɴᴏɴʏᴍᴏᴜꜱ☬         "
+toilet -f term -F gay "       ☬𝕾𝖚𝖕𝖕𝖔𝖗𝖙  : ꜱᴀʀᴋᴀʀ☬         "
+toilet -f term -F gay "     ╚─━━━━━━░🔱░━━━━━━─╝"
+toilet -f term -F gay "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+echo ""
+date
+echo ""
+mkdir /storage/emulated/0/Android/AS
+mkdir /storage/emulated/0/Android/AS/Paks
+cp /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/*.* /storage/emulated/0/Android/AS/Paks
+rm -rf /storage/emulated/0/Android/backup/Paks/map*.*
+rm -rf /storage/emulated/0/Android/backup/Paks/res*.*
+rm -rf /data/data/com.pubg.krmobile/app_crashrecord
+touch /data/data/com.pubg.krmobile/app_crashrecord
+rm -rf /data/data/com.pubg.krmobile/files
+touch /data/data/com.pubg.krmobile/files
+echo ""
+echo "ɪɴᴊᴇᴄᴛɪɴɢ ᴄʜᴇᴀᴛ ᴅᴀᴛᴀ"
+echo -e "[choice]
+appversion=0.17.0.11800
+srcversion=0.17.0.11807
+" > /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+chmod 555 /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+echo "ᴄʜᴇᴀᴛ ᴅᴀᴛᴀ ɪɴᴊᴇᴄᴛᴇᴅ"
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/core_patch_0.17.0.11808.pak
+sleep 1
+echo ""
+echo "ᴄʜᴇᴀᴛ ᴅᴀᴛᴀ ɪɴᴊᴇᴄᴛᴇᴅ"
+sleep 2
+echo ""
+echo "Starting Pubgm..."
+am start -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
+echo ""
+echo "KEEP RUN TERMUX IN BACKGROUND"
+echo "DON'T EXIT FROM TERMUX"
+echo ""
+sleep 60
+PACKAGE='com.pubg.krmobile'
+while [ $(pidof $PACKAGE) ]
+do
+sleep 1
+Logcleaner
+((COUNT=$COUNT+10))
+if [ ! $(pidof $PACKAGE) ]; then
+break
+fi
+sleep 1
+done
+toilet -f term -F gay "REsToRiNG PuBGm"
+echo "Wait.. "
+echo -e "[choice]
+appversion=0.17.0.11800
+srcversion=0.17.0.11809
+" > /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+chmod 660 /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SrcVersion.ini
+cp /storage/emulated/0/Android/AS/Paks/*.* /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+rm -rf /storage/emulated/0/Android/ASL
+rm -rf /storage/emulated/0/.backups
+rm -rf /storage/emulated/0/MidasOversea
+rm -rf /storage/emulated/0/supercache
+rm -rf /storage/emulated/0/tencent
+toilet -f term -F gay "ReStOrED PuBGm"
+toilet -f term -F gay "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+toilet -f term -F gay "     ╔─━━━━━━░🔱░━━━━━━─╗"
+toilet -f term -F gay "        𝖆𝖓𝖔𝖓𝖄𝖒𝖔𝖚𝕾 𝖘𝕼𝖚𝖆𝖗𝕯      "
+toilet -f term -F gay "       ☬𝕮𝖗𝖊𝖆𝖙𝖔𝖗  : ᴀɴᴏɴʏᴍᴏᴜꜱ☬         "
+toilet -f term -F gay "       ☬𝕾𝖚𝖕𝖕𝖔𝖗𝖙  : ꜱᴀʀᴋᴀʀ☬         "
+toilet -f term -F gay "     ╚─━━━━━━░🔱░━━━━━━─╝"
+toilet -f term -F gay "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+date
+AS=1
+;;
+3)
+toilet -f mono12 -F gay -t 'AS_PC' | lolcat -a -d 3
+toilet -f term -F gay "THANKS FOR USING AS_01"
+break
+;;
+0)
+toilet -f term -F gay "THANKS FOR USING AS_01"
+break
+;;
+*)
+echo "INVALID NUMBER, TRY AGAIN FROM 0 TO 3 "
+;;
+esac
+done
